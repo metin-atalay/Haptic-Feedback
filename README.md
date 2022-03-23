@@ -1,4 +1,4 @@
-# Haptic Button and Animation with SwiftUI
+# Haptic Button and UI Animation with SwiftUI
 
 Learning Swift UI
 haptic feedback
