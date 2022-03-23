@@ -1,4 +1,4 @@
-# Love-Share
+# Haptic Button and Animation with SwiftUI
 
 Learning Swift UI
 haptic feedback
