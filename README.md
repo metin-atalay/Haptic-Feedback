@@ -1,4 +1,4 @@
-# Haptic Button and UI Animation with SwiftUI
+# UI Animation with SwiftUI
 
 Learning Swift UI 3
 
